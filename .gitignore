@@ -1,0 +1,7 @@
+﻿model/*.pth
+model/*.pt
+*.pyc
+__pycache__/
+*.log
+.venv/
+venv/
